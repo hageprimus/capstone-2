@@ -1,4 +1,4 @@
 package com.deli.sale;
 
-public class Reciept {
+public class Receipt {
 }

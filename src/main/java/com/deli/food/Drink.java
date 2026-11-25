@@ -1,4 +1,10 @@
 package com.deli.food;
 
-public class Drink {
+import java.math.BigDecimal;
+
+public class Drink implements Item {
+    @Override
+    public BigDecimal getPrice() {
+        return null;
+    }
 }

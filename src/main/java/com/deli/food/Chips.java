@@ -1,4 +1,5 @@
 package com.deli.food;
 
-public class Chips {
+public class Chips extends Side {
+
 }
